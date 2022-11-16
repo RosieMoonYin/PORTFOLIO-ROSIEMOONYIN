@@ -1,0 +1,20 @@
+.container .blob{
+    border-radius: 94% 31% 30% 67% / 67% 37% 56% 34%;
+    width: 250px;
+    height: 250px;
+    background: #f09;
+    background-image: linear-gradient(45deg, #3023AE 0%, #f09 100%);
+    box-shadow: -10vmin 10vmin 0 rgba(255,255,255,0.07);
+
+
+
+
+    
+    border-radius: 40% 60% 60% 40% / 70% 30% 70% 30%;
+    width: 250px;
+    height: 250px;
+    background: rgb(0, 255, 98);
+    background-image: linear-gradient(45deg, #3023AE 0%, rgb(0, 255, 98) 100%);
+    box-shadow: -10vmin 10vmin 0 rgba(255,255,255,0.07);	
+	animation: animateBlob 10s linear infinite alternate;
+    }
